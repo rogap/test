@@ -32,7 +32,7 @@ if ($post_type == 'stats') {
 } else {
 	die(json_encode( array("error" => "type") ));
 }
-
+5
 
 
 
