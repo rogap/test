@@ -71,5 +71,3 @@ index.html      | Индексный файл для проверки вноси
 _наклонный_ _шрифт_ _наклонный__шрифт_
 
 ![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
-
-123
