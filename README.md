@@ -82,3 +82,8 @@ lightox.css           | Стили лайтбокса, если таковой �
 _наклонный_ _шрифт_ _наклонный__шрифт_
 
 ![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+
+```glsl
+#fwe
+23123fw
+```
