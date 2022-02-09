@@ -1,5 +1,5 @@
 
-https://github.com/rogap/Pal-bot/blob/master/video/palbot_commands.mp4?raw=true
+https://raw.githubusercontent.com/rogap/Pal-bot/master/video/palbot_commands.mp4
 
 ```
 DISCORDTOKEN=00000000000000000000000000000000000000000000000000000000000
