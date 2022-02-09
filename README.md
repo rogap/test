@@ -1,5 +1,10 @@
 
+Mixture Variants:
+
 https://raw.githubusercontent.com/rogap/Pal-bot/master/video/palbot_commands.mp4
+
+
+Earth Heightmap node:
 
 Mixture Variants:
 
