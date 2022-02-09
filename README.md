@@ -1,6 +1,13 @@
 
 https://raw.githubusercontent.com/rogap/Pal-bot/master/video/palbot_commands.mp4
 
+Mixture Variants:
+
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+
+
+Earth Heightmap node:
+
 ```
 DISCORDTOKEN=00000000000000000000000000000000000000000000000000000000000
 STEAMKEY=0000000000000000000000000000000
